@@ -25,7 +25,7 @@ A simple and responsive **Temperature Converter** web application built using **
 ## ⚙️ How It Works
 
 1. Enter a temperature value  
-2. Select the desired unit (Celsius, Fahrenheit, or Kelvin)  
+2. Select the desired unit (Celsius and Fahrenheit)  
 3. The application processes the input using JavaScript  
 4. Converted values are displayed instantly  
 
